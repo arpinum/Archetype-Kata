@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ECLIPSE="/Applications/eclipse/eclipse"
-REPOGIT="https://github.com/BodySplash/Archetype-Kata.git"
+REPOGIT="https://github.com/BodySplash/Eclipse-settings.git"
 GROUP_ARCHETYPE="fr.arpinum"
 ARTIFACT_ARCHETYPE="kata"
 NOM_PROJET=$1
